@@ -7,7 +7,7 @@ import { ShopCategory } from './Pages/ShopCategory';
 import { Cart } from './Pages/Cart';
 import { LoginSignup } from './Pages/LoginSignup';
 
-export function App() {
+export default function App() {
   return (
     <div>
       <BrowserRouter>
