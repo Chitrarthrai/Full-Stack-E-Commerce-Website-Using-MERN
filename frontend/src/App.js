@@ -14,7 +14,7 @@ export default function App() {
       <BrowserRouter>
         <Navbar/>
         <Routes>
-          <Route path='/' elememt={<Shop/>}/>
+          <Route path='/' element={<Shop/>}/>
           <Route path='/mens' element={<ShopCategory category="men"/>}/>
           <Route path='/womens' element={<ShopCategory category="women"/>}/>
           <Route path='/kids' element={<ShopCategory category="kid"/>}/>
