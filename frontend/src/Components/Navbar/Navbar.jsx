@@ -3,7 +3,7 @@ import './Navbar.css'
 import logo from '../Assets/logo.png'
 import cart_icon from '../Assets/cart_icon.png'
 import { Link } from 'react-router-dom'
-export const Navbar = () => {
+const Navbar = () => {
 
     const [menu,setMenu] = useState("shop");
 
@@ -27,3 +27,5 @@ export const Navbar = () => {
     </div>
   )
 }
+
+export default Navbar 
