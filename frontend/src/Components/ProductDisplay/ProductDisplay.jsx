@@ -30,8 +30,8 @@ const ProductDisplay = (props) => {
                 <p>(122)</p>
             </div>
             <div className="productdisplay-right-prices">
-                <div className="productdisplay-right-price-old">💲{product.old_price}</div>
-                <div className="productdisplay-right-price-new">💲{product.new_price}</div>
+                <div className="productdisplay-right-price-old">${product.old_price}</div>
+                <div className="productdisplay-right-price-new">${product.new_price}</div>
             </div>
             <div className="productdisplay-right-description">
                 Indulge in this exquisite piece of clothing, crafted with meticulous attention to detail and tailored to perfection. Its soft, luxurious fabric drapes elegantly, offering both comfort and style. The subtle yet sophisticated design accentuates your silhouette, while the fine stitching adds durability and finesse. Whether you're dressing up for a special occasion or simply want to elevate your everyday look, this garment effortlessly embodies timeless elegance and versatility. Flaunt your unique sense of fashion with confidence in this wardrobe essential that seamlessly transitions from day to night with effortless grace.
