@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "addproduct",
         "breadcrum",
         "Breadcrums",
         "carticon",
@@ -11,6 +12,7 @@
         "productdisplay",
         "promobox",
         "promocode",
-        "relatedproducts"
+        "relatedproducts",
+        "removeproduct"
     ]
 }
