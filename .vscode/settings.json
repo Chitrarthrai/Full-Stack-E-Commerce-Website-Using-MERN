@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "addproduct",
+        "allproducts",
         "breadcrum",
         "Breadcrums",
         "carticon",
@@ -9,6 +10,9 @@
         "Colourblocked",
         "descriptionbox",
         "fieldname",
+        "itemfield",
+        "listproduct",
+        "navlogo",
         "productdisplay",
         "promobox",
         "promocode",
