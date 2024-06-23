@@ -18,5 +18,7 @@
         "promocode",
         "relatedproducts",
         "removeproduct"
-    ]
+    ],
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "window.autoDetectColorScheme": true
 }
