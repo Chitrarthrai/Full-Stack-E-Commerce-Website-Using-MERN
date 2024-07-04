@@ -9,6 +9,7 @@
         "chitrarthrai",
         "Colourblocked",
         "descriptionbox",
+        "ecom",
         "fieldname",
         "itemfield",
         "listproduct",
@@ -17,7 +18,8 @@
         "promobox",
         "promocode",
         "relatedproducts",
-        "removeproduct"
+        "removeproduct",
+        "Shema"
     ],
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "window.autoDetectColorScheme": true
