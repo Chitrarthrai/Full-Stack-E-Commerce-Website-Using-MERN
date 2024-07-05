@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
         "addproduct",
+        "addtocart",
         "allproducts",
         "breadcrum",
         "Breadcrums",
+        "cartdata",
         "carticon",
         "cartitems",
         "chitrarthrai",
@@ -14,6 +16,8 @@
         "itemfield",
         "listproduct",
         "navlogo",
+        "newcollections",
+        "popularinwomen",
         "productdisplay",
         "promobox",
         "promocode",
